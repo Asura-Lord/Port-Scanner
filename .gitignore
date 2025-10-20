@@ -1,0 +1,58 @@
+# ====================================
+# 🕵️‍♂️ Port Scanner Project — .gitignore
+# ====================================
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+
+# Scan outputs & CSV logs
+*.csv
+output/
+open_ports_*.csv
+scan_full_*.csv
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Backup or archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Other
+*.spec
