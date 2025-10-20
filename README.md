@@ -60,15 +60,15 @@ cd Port-Scanner
 # Optional virtual environment
 ```
 python -m venv venv
-```
+
  **Windows**
 ```
 venv\Scripts\activate
-```
+
 **macOS / Linux**
-```
+
 source venv/bin/activate
-```
+
 
 **colorama is optional (for nice terminal colors)**
 ```
