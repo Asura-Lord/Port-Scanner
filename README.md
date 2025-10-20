@@ -41,14 +41,10 @@ This tool helps you discover open ports and basic service banners on targets you
 
 ---
 
-## Screenshot (placeholder)
+## Screenshot 
 
-> Replace these with your screenshots in `/screenshots` for the repo.
+> <img width="1003" height="226" alt="image" src="https://github.com/user-attachments/assets/36b2810d-a4c2-435a-b9ef-d420029d861b" />
 
-```
-
-![Scan example](screenshots/scan_example.png)
-![CSV output](screenshots/csv_example.png)
 
 ````
 
