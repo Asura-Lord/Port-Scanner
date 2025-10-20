@@ -43,7 +43,8 @@ This tool helps you discover open ports and basic service banners on targets you
 
 ## Screenshot 
 
-> <img width="1003" height="226" alt="image" src="https://github.com/user-attachments/assets/36b2810d-a4c2-435a-b9ef-d420029d861b" />
+> <img width="1118" height="199" alt="image" src="https://github.com/user-attachments/assets/3caa3cb2-8ce4-4019-8c02-5901ab283473" />
+
 
 
 ````
