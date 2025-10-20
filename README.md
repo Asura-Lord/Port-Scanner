@@ -47,24 +47,31 @@ This tool helps you discover open ports and basic service banners on targets you
 
 
 
-````
+
 
 ---
 
 ## Quick Installation
 
-```bash
+```
 git clone https://github.com/Asura-Lord/Port-Scanner.git
 cd Port-Scanner
-
+```
 # Optional virtual environment
+```
 python -m venv venv
+```
 # Windows
+```
 venv\Scripts\activate
+```
 # macOS / Linux
+```
 source venv/bin/activate
+```
 
 # colorama is optional (for nice terminal colors)
+```
 pip install colorama
 ````
 
