@@ -62,14 +62,14 @@ cd Port-Scanner
 python -m venv venv
 
  **Windows**
-```
+
 venv\Scripts\activate
 
 **macOS / Linux**
 
 source venv/bin/activate
 
-
+```
 **colorama is optional (for nice terminal colors)**
 ```
 pip install colorama
