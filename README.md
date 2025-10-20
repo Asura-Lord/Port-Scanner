@@ -13,7 +13,7 @@
 [![Speed](https://img.shields.io/badge/Speed-MultiThreaded-orange)]()
 [![Mood](https://img.shields.io/badge/Mood-Stay%20Safe%2C%20Stay%20Dangerous-red)]()
 
-**Slogan:** **Stay Safe, Stay Dangerous** — *Asura‑Lord*
+
 
 A lightweight, fast, and beginner‑friendly **Nmap‑lite**: multi‑threaded port scanner with optional banner grabbing. Produces **clean CSV output** (by default, saves **only open ports**) and supports single hosts, IP ranges, and CIDR blocks.
 
@@ -211,6 +211,8 @@ MIT License © 2025 Asura-Lord — see `LICENSE` file.
 ## Contact / Showcase
 
 Find other tools in the Cybersecurity‑Toolkit. Want help integrating this into a CI or dashboard? Ping me on GitHub.
+
+ *Stay Safe, Stay Dangerous* — **Asura‑Lord**
 
 ```
 
